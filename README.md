@@ -3,9 +3,8 @@
 ![Seer Logo](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Modeling1.png)
 
 ## Authors
-[:rage1: Guinzburg Nathanael](https://github.com/TheGuinz)<br>
-[:godmode: Baruch Rotem](https://github.com/rotembaruch)<br>
-[:suspect: Erez](https://github.com/uriaLevko)<br>
+[:godmode: Bar Rotem](https://github.com/rotembaruch)<br>
+[:suspect: Levkovich Uria](https://github.com/uriaLevko)<br>
 
 ## Description
 As part of an NLP course, we review the Gibbs sampling and non-negative matrix factorization models for topic modeling. In joint work with Uria Levkovich, we reviewed the theoretical background of each model, raised several research questions, performed tests, and analyzed the results.
