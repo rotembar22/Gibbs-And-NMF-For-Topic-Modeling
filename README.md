@@ -7,7 +7,7 @@
 [:suspect: Levkovich Uria](https://github.com/uriaLevko)<br>
 
 ## Description
-As part of an NLP course, we review the Gibbs sampling and non-negative matrix factorization models for topic modeling. In joint work with Uria Levkovich, we reviewed the theoretical background of each model, raised several research questions, performed tests, and analyzed the results.
+As part of an NLP course, we review the Gibbs sampling and Non-negative Matrix Factorization models for topic modeling. In joint work with Uria Levkovich, we reviewed the theoretical background of each model, raised several research questions, performed tests, and analyzed the results.
 My part in this work focused on the NMF model.
 
 
