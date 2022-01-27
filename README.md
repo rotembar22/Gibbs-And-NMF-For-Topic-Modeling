@@ -1,6 +1,6 @@
 # Topic Modeling in Natural Language Processing
 
-![Seer Logo](https://miro.medium.com/max/1400/1*r1R0cxCnErWgE0P4Q-hI0Q.jpeg)
+![Seer Logo](https://miro.medium.com/max/1400/1*Q5dogodt3wzKKktE0v3dMQ@2x.png)
 
 ## Authors
 [:godmode: Bar Rotem](https://github.com/rotembaruch)<br>
