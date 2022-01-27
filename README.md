@@ -1,6 +1,6 @@
 # Topic Modeling in Natural Language Processing
 
-![Seer Logo](https://miro.medium.com/max/1400/1*Q5dogodt3wzKKktE0v3dMQ@2x.png)
+![Seer Logo](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Modeling1.png)
 
 ## Authors
 [:godmode: Bar Rotem](https://github.com/rotembaruch)<br>
